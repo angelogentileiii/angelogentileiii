@@ -3,10 +3,10 @@ My name is Angelo Gentile, a full-stack software engineer and former IATSE Local
 
 I am passionate about designing clean, maintainable code that effectively meets stakeholders' needs. The demanding nature of the film and television industry has sharpened my communication and team skills, making me a reliable and collaborative team player. As a technical developer with the heart of an artist, I am committed to building strong connections and delivering exceptional results.
 
-🌍 I'm based in the New York Metropolitan Area! <br/>
-🎨 Checkout my [portfolio](https://angelogentileiii.github.io)<br/>
-👀 Take a peak at my [resume](https://angelogentileiii.github.io/assets/pdfs/AGIII-Technical-Resume.pdf)<br/>
-📫 Send me an [email](angelogentileiii@gmail.com)
+🌍 &nbsp; I'm based in the New York Metropolitan Area! <br/>
+🎨 &nbsp; Checkout my <a href="https://angelogentileiii.github.io" target="_blank" rel="noopener noreferrer">Portfolio</a><br/>
+👀 &nbsp; Take a peak at my <a href="https://angelogentileiii.github.io/assets/pdfs/AGIII-Technical-Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a><br/>
+📫 &nbsp; Send me an <a href="mailto:angelogentileiii@gmail.com">Email</a>
 
 
 ### Technical Expertise
