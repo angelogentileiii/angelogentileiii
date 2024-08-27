@@ -37,32 +37,32 @@ I am passionate about designing clean, maintainable code that effectively meets 
 
 ### Socials
 <p align="left">
-  <a href="https://www.github.com/angelogentileiii" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="https://www.github.com/angelogentileiii" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://www.linkedin.com/in/angelogentileiii" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/angelogentileiii" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="http://www.medium.com/@angelogentileiii" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="http://www.medium.com/@angelogentileiii" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://www.imdb.com/name/nm0000000/" target="_blank" rel="noreferrer">
+  <a href="https://www.imdb.com/name/nm6910867/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://path/to/imdb-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://path/to/imdb.svg" />
-      <img src="https://path/to/imdb.svg" width="32" height="32" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.github.com/angelogentileiii/angelogentileiii/raw/main/imdb-svgrepo-com.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://www.github.com/angelogentileiii/angelogentileiii/raw/main/imdb-svgrepo-com(light).svg" />
+      <img src="https://www.github.com/angelogentileiii/angelogentileiii/raw/main/imdb-svgrepo-com.svg" width="32" height="32" />
     </picture>
   </a>
 </p>
