@@ -1,5 +1,5 @@
 ## Hello! Nice to meet you!
-My name is Angelo Gentile, a full-stack software engineer and former IATSE Local 600 camera and digital imaging technician, with over 9 years of thriving in the dynamic, high-pressure environment of the multi-billion dollar film and television industry. This experience has fueled my determination and honed my detail-oriented nature, driving me to transition into a more technology-forward role where I can merge my creative and technical expertise.
+My name is Angelo Gentile, a full-stack software engineer and former IATSE Local 600 camera assistant and digital imaging technician, with over 9 years of thriving in the dynamic, high-pressure environment of the multi-billion dollar film and television industry. This experience has fueled my determination and honed my detail-oriented nature, driving me to transition into a more technology-forward role where I can merge my creative and technical expertise.
 
 I am passionate about designing clean, maintainable code that effectively meets stakeholders' needs. The demanding nature of the film and television industry has sharpened my communication and team skills, making me a reliable and collaborative team player. As a technical developer with the heart of an artist, I am committed to building strong connections and delivering exceptional results.
 
